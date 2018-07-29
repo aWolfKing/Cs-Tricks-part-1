@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,7 +18,7 @@ using System.Threading.Tasks;
     My teacher seemed surprised when I informed him about my findings 
     and as a result he explained it to the class in the following lesson.
 
-    I found out about this trick around two weaks after learning what interfaces are.
+    I found out about this trick around two weeks after learning what interfaces are.
 
 */
 
