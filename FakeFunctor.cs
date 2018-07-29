@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -44,7 +44,7 @@ namespace CsTricksPart1 {
         internal Functor m_functor = new Functor();
 
         /// To make the 'fuctor' function like it should, you need to make a property that has at least a 'get' accessor.
-        /// You cannot use a field instead of a proerty.
+        /// You cannot use a field instead of a property.
         public Functor FunctorObject {
             get{
                 return this.m_functor;
